@@ -1,0 +1,6 @@
+.vscode
+test/
+tmp/
+advanced_datastructure/*
+basic_datastructure/.vscode
+basic_datastructure/linkedList/DoublyLinkedList/
