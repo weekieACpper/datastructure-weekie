@@ -1542,6 +1542,8 @@ void adjacencyList::DFS(int a, int & time, std::vector<int> & timeList, std::sta
 
 ## 八、如有错误或描述不当，请多多指教！不胜感激！
 
+![2280f68d27fab5a304c9b0264903bb20](https://tva1.sinaimg.cn/large/e6c9d24egy1h16w98rteuj20u00u0ack.jpg)
+
 
 
 ​					  																																												2022年3月24日
